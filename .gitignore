@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+.cache/
+
+
+.idea/
+
+
+
+*log.txt
+
+
+2026_05_23/
+dataset_images/
+videos/
+videos_for_frames/
