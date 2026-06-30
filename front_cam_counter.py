@@ -64,7 +64,7 @@ TRACKER_CFG = {
     "model":             None,
 }
 
-VIDEOS_DIR  = "2026_05_22/front"
+VIDEOS_DIR  = "2026_05_23/front"
 DEFAULT_VID = "2026_05_22/front/front_2026-05-22_06-02-52_seg001.mp4"
 TARGET_WIDTH = 1024
 

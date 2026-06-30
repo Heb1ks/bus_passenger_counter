@@ -59,7 +59,7 @@ GHOST_MIN_ALIVE = 2
 DEBUG = False
 DEBUG_LOG_FILE = "debug_oneline.log"
 
-VIDEOS_DIR = "2026_05_23/rear"
+VIDEOS_DIR = "2026_05_23/middle"
 DEFAULT_VID = "videos/kakoetovideo.mp4"
 
 
